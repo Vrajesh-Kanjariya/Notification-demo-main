@@ -1,2 +1,2 @@
-# Notification-demo-main
-Notification demo
+# notification_demo
+ Simple notification send
